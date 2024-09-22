@@ -15,16 +15,23 @@ h1{
     text-shadow: 1px 1px 2px gray;
     border-bottom: 3px solid rgb(115, 115, 114);
 }
-.blue{
+.skyblue{
     color: skyblue;
 }
 .pink{
-    color: rgb(235, 168, 179);
+    color: rgb(255, 192, 203);
 }
-h2{
-    color: pink;
+.secondry{
+    color: rgb(255, 192, 203);
 }
-h3{
+.tertiary{
+    color: skyblue; 
+}
+.basic{
+    font-weight: bold;
+}
+
+/* h3{
     color:skyblue;
 }
 h4{
@@ -39,4 +46,4 @@ h6{
 }
 h7{
     color: skyblue;
-}
+} */
