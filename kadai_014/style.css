@@ -1,12 +1,12 @@
 html{
     font-size: 20px;
-    text-align: center;
 }
 /* P {
     border: solid 3px pink;
 } */
 body{
     font-family: "Arial", "Meiryo", sans-serif;
+    text-align: center;
 }
 h1{
     font-family: "Josefin Sans", sans-serif;
@@ -27,7 +27,7 @@ h1{
 .tertiary{
     color: skyblue; 
 }
-.basic{
+#basic > p{
     font-weight: bold;
 }
 
