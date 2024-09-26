@@ -27,7 +27,7 @@ h1{
 .tertiary{
     color: skyblue; 
 }
-#basic > p{
+#basic >{
     font-weight: bold;
 }
 
