@@ -1,0 +1,24 @@
+Microsoft Windows [Version 10.0.22631.4169]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\samurai\kadai\git_challenge> git add -A
+
+C:\samurai\kadai\git_challenge> git commit -m "課題提出"
+[main c95c660] 課題提出
+ 2 files changed, 3 insertions(+)
+ create mode 100644 git_challenge/hello_world.txt
+ create mode 100644 kadai_005/git_challenge/hello_world.txt
+
+C:\samurai\kadai\git_challenge> git log
+commit c95c6603868018c7150ba7a1ec5cfd4cfa6cb9d3 (HEAD -> main)
+Author: kesu309 <k.shiga309@gmail.com>
+Date:   Fri Sep 27 17:46:03 2024 +0900
+
+     課題提出
+
+commit ea5484f95f730c17591d76603a7bbbf1d6fdf341
+Author: kesu309 <k.shiga309@gmail.com>
+Date:   Sat Sep 14 03:23:50 2024 +0900
+
+    最初のコミット
+(END)
